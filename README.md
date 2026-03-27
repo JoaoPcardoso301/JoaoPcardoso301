@@ -17,6 +17,8 @@ Busco desenvolver minhas habilidades práticas e conquistar minha primeira oport
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
+![English](https://img.shields.io/badge/English-Intermediate-blue?style=for-the-badge)
+
 ##  Objetivos
 - Conseguir minha primeira oportunidade na área de tecnologia  
 - Aprofundar conhecimentos em desenvolvimento Backend
