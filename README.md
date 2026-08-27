@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou João!
 
- Estudante de Engenharia de Software (3º semestre) na UDF  
+ Estudante de Engenharia de Software (4º semestre) na UDF  
  Atualmente estudando inglês  
  Interessado em desenvolvimento e tecnologia  
 
